@@ -1,0 +1,26 @@
+{
+	"StudentOne": {
+		"firstName": "Bill",
+		"lastName": "Smith",
+		"grade": 10,
+		"course": "ICS2U0",
+		"mark": 85,
+		"teacher": "JFSS"
+	},
+	"StudentTwo": {
+		"firstName": "John",
+		"lastName": "Doe",
+		"grade": 11,
+		"course": "MCR3U0",
+		"mark": 99,
+		"teacher": "JFSS"
+	},
+	"StudentThree":{
+		"firstName": "Bob",
+		"lastName": "Appleseed",
+		"grade": 12,
+		"course": "TEJ4M0",
+		"mark": 94,
+		"teacher": "JFSS"
+	}
+}
